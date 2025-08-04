@@ -2,7 +2,7 @@
 
 
 namespace App\Http\Controllers;
-//opaasd
+
 
 use Illuminate\Http\Request;
 
